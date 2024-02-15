@@ -21,6 +21,6 @@ In essence, this is what you would need to begin a repository and run the progra
 
 ## Additional Information
 
-This is my first ever GitHub repository, so I have not much to include, hope your day is going well!
+This is my *first* ever GitHub repository, so I have not much to include, hope your day is going well!
 
 
