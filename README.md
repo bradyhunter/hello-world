@@ -7,12 +7,12 @@ I enjoy coding, especially working with python and r, which are good for data an
 In my free time, I walk my dog, workout, and watch sports with my buddies.
 
 ## How To Run a Program
-
 Hello_World/
-
 └── 
-    │── 
-         README.md
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+   
 In essence, this is what you would need to begin a repository and run the program with a README file. 
 
 
